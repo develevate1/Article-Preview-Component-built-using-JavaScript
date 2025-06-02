@@ -46,7 +46,12 @@ A simple and responsive Article Preview Component built with HTML, CSS, and vani
 <div align='center'>
   <p><b>Mobile Preview</b></p>
   <br>
-![Screenshot 2025-06-02 163124](https://github.com/user-attachments/assets/df0dfd5b-411f-4c9f-9ed8-a4dc8bf1bb0c)
+ 
+   ![Screenshot 2025-06-02 163124](https://github.com/user-attachments/assets/d1607490-e1f9-4285-8b40-a2f220624002)
+
+
+
+
   <br>
   <p><b> Desktop Preview</b></p>
   
