@@ -12,9 +12,9 @@ A simple and responsive Article Preview Component built with HTML, CSS, and vani
     <br />
     <a href="https://calculatorappdesign.netlify.app/">View Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/develevate1/Frontend-Mentor-Calculator-App-Built-with-JavaScript-/issues">Report Bug</a>
+    <a href="https://github.com/develevate1/Article-Preview-Component-built-using-JavaScript/issues">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/develevate1/Frontend-Mentor-Calculator-App-Built-with-JavaScript-/issues">Request Feature</a>
+    <a href="https://github.com/develevate1/Article-Preview-Component-built-using-JavaScript/issues">Request Feature</a>
   </p>
 </div>
 
@@ -61,7 +61,7 @@ A simple and responsive Article Preview Component built with HTML, CSS, and vani
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [Calculator App With Theme Toggle 🎯 [ ACCESSIBLE - BEM - VANILLA CSS3 - ES6 ]](https://github.com/develevate1/Frontend-Mentor-Calculator-App-Built-with-JavaScript-) |
+  | Solution URL: | [Calculator App With Theme Toggle 🎯 [ ACCESSIBLE - BEM - VANILLA CSS3 - ES6 ]](https://github.com/develevate1/Article-Preview-Component-built-using-JavaScript) |
   | Live Site URL: | https://calculatorappdesign.netlify.app/ |
   |||
 
@@ -87,11 +87,11 @@ A simple and responsive Article Preview Component built with HTML, CSS, and vani
 
 ## The Challenge
 
-- Your challenge is to build out this calculator app and get it looking as close to the design as possible..
+- Your challenge is to build out this Article Preview Component and get it looking as close to the design as possible..
 - Users should be able to:
-    - See the size of the elements adjust based on their device's screen size
-    - Perform mathematical operations like addition, subtraction, multiplication, and division
-    - Adjust the color theme based on their preference
+    - See the social media share links when they click the share icon
+    - View the optimal layout for each page depending on their device's screen size
+    - See hover states for all interactive elements on the page
 
 <br>
 
