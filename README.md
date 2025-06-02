@@ -10,7 +10,7 @@ A simple and responsive Article Preview Component built with HTML, CSS, and vani
     <a href="https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://calculatorappdesign.netlify.app/">View Demo</a>
+    <a href="https://articlepreviewcomponentdesign.netlify.app/">View Demo</a>
     &nbsp;·&nbsp;
     <a href="https://github.com/develevate1/Article-Preview-Component-built-using-JavaScript/issues">Report Bug</a>
     &nbsp;·&nbsp;
@@ -67,7 +67,7 @@ A simple and responsive Article Preview Component built with HTML, CSS, and vani
 - |||
   | :----- | :----- |
   | Solution URL: | [Calculator App With Theme Toggle 🎯 [ ACCESSIBLE - BEM - VANILLA CSS3 - ES6 ]](https://github.com/develevate1/Article-Preview-Component-built-using-JavaScript) |
-  | Live Site URL: | https://calculatorappdesign.netlify.app/ |
+  | Live Site URL: | https://articlepreviewcomponentdesign.netlify.app/ |
   |||
 
 <br>
