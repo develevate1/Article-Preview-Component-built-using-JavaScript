@@ -76,10 +76,10 @@ A simple and responsive Article Preview Component built with HTML, CSS, and vani
   
 - ||
   | :-----: |
-  |  <b>Overall score 95% for Both Mobile & Desktop</b><br>(Below scores are for mobile and desktop devices) |
+  |  <b>Overall score 99% for Both Mobile & Desktop</b><br>(Below scores are for mobile and desktop devices) |
   | |
-  |  ![Screenshot 2025-05-26 150240](https://github.com/user-attachments/assets/807c7c64-73c3-42f8-af77-34031acbd3bc)
-     ![Screenshot 2025-05-26 150253](https://github.com/user-attachments/assets/f0b2e48e-ffe4-482c-bd7b-bcbc7b8f7af4)
+  | ![Screenshot 2025-06-02 170415](https://github.com/user-attachments/assets/eb108063-520c-4cab-be4e-9f94451001d4)
+
 
     |
   | |
