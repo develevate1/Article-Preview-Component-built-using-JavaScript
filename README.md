@@ -21,7 +21,7 @@ A simple and responsive Article Preview Component built with HTML, CSS, and vani
 <!-- Badges -->
 <div align="center">
   <!-- Profiles -->
-  <a href="https://www.frontendmentor.io/profile/develevate14">
+  <a href="https://www.frontendmentor.io/profile/develevate1">
     <img src="https://img.shields.io/badge/Profile-aratidsa-fefefe?style=for-the-badge&logo=frontendmentor" alt="Arati D'sa Profile">
   </a> &nbsp;&nbsp;&nbsp;
 
