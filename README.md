@@ -128,7 +128,7 @@ A simple and responsive Article Preview Component built with HTML, CSS, and vani
     <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.frontendmentor.io/profile/aratidsa" >
+  <a href="https://www.frontendmentor.io/profile/develevate1/solutions" >
     <img src="https://img.shields.io/badge/FEM%20Profile-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor Profile">
   </a> &nbsp;&nbsp;&nbsp;
 
